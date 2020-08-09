@@ -4,7 +4,7 @@ This projects was a quick analysis of the Ebay Mortors German website data set f
 
 ## Context:
 
-In this project, we will analyze an dataset from eBay Kleinanzeigen. The dataset can be found on Kaggle but was cleaned in advance for the purpose of the analysis. This data set was scraped in 2016 (this analysis was made on August 2020). If a new data set were to be prepared this year, data could be entirely different.
+In this project, we will analyze an dataset from eBay Kleinanzeigen. The dataset is too heavy to be important on Github, it can be found on [Kaggle](https://www.kaggle.com/orgesleka/used-cars-database/download). It was cleaned in advance for the purpose of the analysis. This data set was scraped in 2016 (this analysis was made on August 2020). If a new data set were to be prepared this year, data could be entirely different.
 
 ## Data set: 
 
